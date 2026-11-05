@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎀 Amal Benjamaa 🎀
+# 🎀 Amal BENJAMAA 🎀
 
 <img src="assets/banner.svg" alt="Full Stack Developer" width="100%"/>
 
