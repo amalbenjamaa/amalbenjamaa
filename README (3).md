@@ -160,35 +160,10 @@ const amal = {
 
 ---
 
-## 📊 GitHub Statistics
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=amalbenjamaa&show_icons=true&hide_border=true&bg_color=FFF0F8&title_color=D6479B&icon_color=8B5CC9&text_color=5B2A86&count_private=true&include_all_commits=true" />
-  <img width="49%" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=amalbenjamaa&hide_border=true&background=FFF0F8&ring=FF6FB1&fire=FF8FC7&currStreakNum=5B2A86&sideNums=5B2A86&currStreakLabel=D6479B&sideLabels=D6479B&dates=8B5CC9" />
-</div>
-
-<div align="center">
-  <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalbenjamaa&layout=compact&hide_border=true&bg_color=FFF0F8&title_color=D6479B&text_color=5B2A86&langs_count=8&hide=html,css" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=amalbenjamaa&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amalbenjamaa&bg_color=FFF0F8&color=D6479B&line=FF6FB1&point=8B5CC9&area=true&area_color=FFB6DA&hide_border=true)
-
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=amalbenjamaa&hide_border=true&background=FFF0F8&ring=FF6FB1&fire=FF8FC7&currStreakNum=5B2A86&sideNums=5B2A86&currStreakLabel=D6479B&sideLabels=D6479B&dates=8B5CC9" />
 </div>
 
 ---
